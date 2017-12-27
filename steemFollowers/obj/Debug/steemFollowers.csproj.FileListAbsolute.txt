@@ -1,0 +1,12 @@
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\bin\Debug\steemFollowers.exe.config
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\bin\Debug\steemFollowers.exe
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\bin\Debug\steemFollowers.pdb
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.Form1.resources
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.Properties.Resources.resources
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.csproj.GenerateResource.Cache
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.exe
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\obj\Debug\steemFollowers.pdb
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustafa\source\repos\steemFollowers\steemFollowers\bin\Debug\Newtonsoft.Json.xml
